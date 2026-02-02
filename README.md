@@ -17,4 +17,6 @@ The initial Causal Loop Diagram illustrates the key feedback mechanisms influenc
 
 In contrast, the reinforcing loop highlights how physician burnout reduces workforce availability, leading to decreased healthcare access and increased patient backlogs. Growing backlogs place additional pressure on the healthcare system, further increasing workload and exacerbating burnout. Together, these feedback loops demonstrate that improving healthcare access is not solely a matter of increasing service availability, but also requires addressing underlying workforce constraints to ensure long-term system sustainability.
 
+![Causal Loop Diagram](Images/CLD.drawio.png "Causal Loop Diagram")
+
 
