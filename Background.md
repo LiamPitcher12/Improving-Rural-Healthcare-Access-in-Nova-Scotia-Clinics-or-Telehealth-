@@ -32,3 +32,14 @@ This project uses publicly available data from the Canadian Institute for Health
     - Has authority to recommend funding priorities
     - Controls policy direction
     - Operates under real constraints (budget, workforce, politics)
+
+- Dana MacKenzie is the Deputy Minister of Health in NS, leads the Nova Scotia Department of Health’s executive team and advises on provincial healthcare policy and resource allocation.
+
+## Key Stakeholders
+
+- Michelle Thompson – Minister of Health and Wellness, Nova Scotia (political head of the health department, sets policy direction).
+- Dr. Nicole Boutilier – Executive Vice-President, Medicine and Clinical Operations (clinical leadership).
+- Annette Elliott Rose – Chief Nurse Executive & Vice President, Clinical Performance (nursing and clinical practice leadership).
+- Bethany McCormick – Vice President, Operations for Northern Zone (operational influence in rural and northern regions). 
+- Eileen MacGibbon – Vice President of Operations, Central Zone (operations leadership).
+- Other NSH executives who impact care delivery and policy implementation (e.g., VP Corporate Services, VP People & Culture).
