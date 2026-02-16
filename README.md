@@ -3,6 +3,9 @@
 ## Decision Statement
 Should the Nova Scotia Department of Health prioritize expanding physical rural clinics or investing further in telehealth services to improve healthcare access for rural populations?
 
+> [!WARNING]
+> This might be tough to answer, I looked at your background/data sources and struggled to find virtual care usage data. The sources you listed didn't reveal anything downloadable.  I have added some data to your data directory.  If you can't find trend analysis data for virtual care, one interesting spin you could take is to compare different disease/capita by province - so, for example, npdp spreadsheet, sheet A.2.3 you could see that pediatrics is higher in province X when accounting for population...   The question becomes, "Should healthcare be centralized?"  And then reveal that everything looks the same.. .or there are regional differences.
+
 ## Executive Summary
 
 Access to primary healthcare remains a persistent challenge for rural communities across Nova Scotia. Geographic isolation, physician shortages, and an aging population have increased pressure on the provincial healthcare system, leading to longer wait times and reduced access to timely care. As demand continues to rise, the Nova Scotia Department of Health faces a strategic decision on how best to allocate limited resources to improve healthcare access for rural residents.
@@ -20,3 +23,4 @@ In contrast, the reinforcing loop highlights how physician burnout reduces workf
 ![Causal Loop Diagram](Images/CLD.drawio.png "Causal Loop Diagram")
 
 
+https://github.com/LiamPitcher12/Improving-Rural-Healthcare-Access-in-Nova-Scotia-Clinics-or-Telehealth-.git
