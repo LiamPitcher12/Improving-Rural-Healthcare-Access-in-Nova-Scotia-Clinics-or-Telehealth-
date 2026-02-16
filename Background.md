@@ -18,6 +18,9 @@ This project uses publicly available data from the Canadian Institute for Health
 - Nova Scotia Open Health Data Portal: healthcare infrastructure and service availability
 - Statistics Canada Census Data: rural population demographics and geographic distribution
 
+> [!TIP]
+> I think you are looking for something like this, but I don't see the raw data. https://www150.statcan.gc.ca/n1/pub/82-003-x/2025011/article/00002-eng.htm#a5. This question you set for yourself might be hard to answer
+
 ## Citations APA
 
 - Canadian Institute for Health Information. (2023). Health workforce in Canada. https://www.cihi.ca
